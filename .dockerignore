@@ -1,0 +1,13 @@
+.git
+.github
+.env
+data
+tests
+__pycache__
+*.pyc
+.pytest_cache
+.ruff_cache
+dataset_phishing.csv
+baselines.py
+baselines.json
+train.py
